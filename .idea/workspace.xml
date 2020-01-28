@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa76ff23-e346-4f99-b81b-cd98bfde82cc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_jetbrains_annotations_16_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/KDM_ICP-1-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/KDM_ICP-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/build.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$47055f3a2833469c79ef$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$47055f3a2833469c79ef.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$47055f3a2833469c79ef.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$79ac6d70ffc8d4540d22$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$79ac6d70ffc8d4540d22.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$79ac6d70ffc8d4540d22.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$8232c0f2976005b2bea8$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$8232c0f2976005b2bea8.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$8232c0f2976005b2bea8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$9202b79ea6237f4f2172$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$9202b79ea6237f4f2172.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$9202b79ea6237f4f2172.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$ac885ab68bebd15f6ecc$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$ac885ab68bebd15f6ecc.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$ac885ab68bebd15f6ecc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/_global/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/_global/csrLogger/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/csrConfiguration/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/csrProject/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/ivyConfiguration/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/ivySbt/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/moduleSettings/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/projectDescriptors/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/scalaCompilerBridgeScope/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/compileBinaryFileInputs/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/compileOutputs/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/compileSourceFileInputs/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/dependencyClasspathFiles/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/discoveredMainClasses/data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/managedSourcePaths/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/compile/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/_global/streams/copy-resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/internalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/unmanagedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/unmanagedJars/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedJars/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/update/update_cache_2.13/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/update/update_cache_2.13/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/_global/_global/csrLogger/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/_global/_global/dumpStructure/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/_global/csrConfiguration/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/_global/csrProject/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/input_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/output_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/_global/ivyConfiguration/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/_global/ivySbt/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/_global/moduleSettings/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/_global/projectDescriptors/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/_global/ssExtractDependencies/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/unmanagedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/unmanagedJars/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/runtime/unmanagedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/runtime/unmanagedJars/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/managedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/unmanagedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/unmanagedJars/_global/streams/export" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1WoNlOmNFVnAUQVcosJ6n0rMbzt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="KDM_ICP-1" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="kdm_icp-1 [file:/C:/Users/default.DESKTOP-8HVC0QJ/IdeaProjects/KDM_ICP-1/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="KDM_ICP-1-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3159626821167" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="3750226763" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="3666975207" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa76ff23-e346-4f99-b81b-cd98bfde82cc" name="Default Changelist" comment="" />
+      <created>1579812137655</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579812137655</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
